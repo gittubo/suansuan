@@ -1,4 +1,4 @@
-# 一个逗比写的逗比脚本
+# 酸酸甜甜，酸酸乳脚本~
 
 ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
 [![GitHub stars](https://img.shields.io/github/stars/ToyoDAdoubi/doubi.svg?style=popout&label=Stars)](https://github.com/ToyoDAdoubi/doubi/stargazers)
