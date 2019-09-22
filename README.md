@@ -53,7 +53,7 @@
 
 - 脚本说明: Shadowsocks 一键安装管理脚本
 - 系统支持: CentOS6+ / Debian6+ / Ubuntu14+
-- 使用方法: https://doub.io/ss-jc67/
+- 使用方法: http://www.dabaireso.com/2018/11/30/017.html
 - 项目地址: https://github.com/shadowsocks/go-shadowsocks2
 
 #### 脚本特点:
@@ -69,7 +69,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/gittubo/suansua
 
 - 脚本说明: ShadowsocksR 一键安装管理脚本，支持单端口/多端口切换和管理
 - 系统支持: CentOS6+ / Debian6+ / Ubuntu14+
-- 使用方法: https://doub.io/ss-jc42/
+- 使用方法: http://www.dabaireso.com/2018/11/30/017.html
 - 项目地址: https://github.com/ToyoDAdoubiBackup/shadowsocksr
 
 #### 脚本特点:
@@ -94,7 +94,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/gittubo/suansua
 
 - 脚本说明: ShadowsocksR 一键安装管理脚本，支持流量控制
 - 系统支持: CentOS6+ / Debian6+ / Ubuntu14+
-- 使用方法: https://doub.io/ss-jc60/
+- 使用方法: http://www.dabaireso.com/2018/11/30/017.html
 - 项目地址: https://github.com/ToyoDAdoubiBackup/shadowsocksr
 
 #### 脚本特点:
@@ -120,7 +120,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/gittubo/suansua
 
 - 脚本说明: Brook 一键安装管理脚本
 - 系统支持: CentOS6+ / Debian7+ / Ubuntu14+
-- 使用方法: https://doub.io/brook-jc3/
+- 使用方法: http://www.dabaireso.com/2018/11/30/017.html
 
 #### 下载安装:
 ``` bash
@@ -132,7 +132,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/gittubo/suansua
 
 - 脚本说明: GoFlyway 一键安装管理脚本
 - 系统支持: CentOS6+ / Debian7+ / Ubuntu14+
-- 使用方法: https://doub.io/goflyway-jc2/
+- 使用方法: http://www.dabaireso.com/2018/11/30/017.html
 
 #### 下载安装:
 ``` bash
@@ -144,7 +144,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/gittubo/suansua
 
 - 脚本说明: LightSocks 一键安装管理脚本
 - 系统支持: CentOS6+ / Debian7+ / Ubuntu14+
-- 使用方法: https://doub.io/lightsocks-jc1/
+- 使用方法:http://www.dabaireso.com/2018/11/30/017.html
 
 #### 下载安装:
 ``` bash
@@ -156,7 +156,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/gittubo/suansua
 
 - 脚本说明: DAZE 一键安装管理脚本
 - 系统支持: CentOS6+ / Debian7+ / Ubuntu14+
-- 使用方法: https://doub.io/daze-jc3/
+- 使用方法: http://www.dabaireso.com/2018/11/30/017.html
 
 #### 下载安装:
 ``` bash
@@ -168,7 +168,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/gittubo/suansua
 
 - 脚本说明: Mtproto Proxy 一键安装管理脚本
 - 系统支持: CentOS7 / Debian7+ / Ubuntu14+
-- 使用方法: https://doub.io/shell-jc7/
+- 使用方法: http://www.dabaireso.com/2018/11/30/017.html
 
 #### 下载安装:
 ``` bash
@@ -180,7 +180,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/gittubo/suansua
 
 - 脚本说明: Mtproto Proxy Go版 一键安装管理脚本
 - 系统支持: CentOS6+ / Debian7+ / Ubuntu14+
-- 使用方法: https://doub.io/shell-jc9/
+- 使用方法: http://www.dabaireso.com/2018/11/30/017.html
 
 #### 下载安装:
 ``` bash
@@ -195,7 +195,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/gittubo/suansua
 
 - 脚本说明: iptables 端口转发 一键安装管理脚本
 - 系统支持: CentOS6+ / Debian6+ / Ubuntu14+
-- 使用方法: https://doub.io/wlzy-20/
+- 使用方法: http://www.dabaireso.com/2018/11/30/017.html
 
 #### 下载安装:
 ``` bash
@@ -207,7 +207,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/gittubo/suansua
 
 - 脚本说明: Brook 端口转发 一键安装管理脚本
 - 系统支持: CentOS6+ / Debian6+ / Ubuntu14+
-- 使用方法: https://doub.io/wlzy-37/
+- 使用方法: http://www.dabaireso.com/2018/11/30/017.html
 
 #### 下载安装:
 ``` bash
@@ -219,7 +219,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/gittubo/suansua
 
 - 脚本说明: HaProxy 一键安装管理脚本
 - 系统支持: CentOS6+ / Debian6+ / Ubuntu14+
-- 使用方法: https://doub.io/wlzy-19/
+- 使用方法: http://www.dabaireso.com/2018/11/30/017.html
 
 #### 下载安装:
 ``` bash
@@ -231,7 +231,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/gittubo/suansua
 
 - 脚本说明: Socat 一键安装管理脚本
 - 系统支持: CentOS6+ / Debian6+ / Ubuntu14+
-- 使用方法: https://doub.io/wlzy-18/
+- 使用方法: http://www.dabaireso.com/2018/11/30/017.html
 
 #### 下载安装:
 ``` bash
@@ -243,7 +243,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/gittubo/suansua
 
 - 脚本说明: tinyPortMapper 一键安装管理脚本
 - 系统支持: CentOS6+ / Debian6+ / Ubuntu14+
-- 使用方法: https://doub.io/wlzy-36/
+- 使用方法: http://www.dabaireso.com/2018/11/30/017.html
 
 #### 下载安装:
 ``` bash
@@ -258,7 +258,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/gittubo/suansua
 
 - 脚本说明: Aria2 一键安装管理脚本
 - 系统支持: CentOS6+ / Debian6+ / Ubuntu14+
-- 使用方法: https://doub.io/shell-jc4/
+- 使用方法: http://www.dabaireso.com/2018/11/30/017.html
 
 #### 下载安装:
 ``` bash
@@ -270,7 +270,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/gittubo/suansua
 
 - 脚本说明: Cloud Torrent 一键安装管理脚本
 - 系统支持: CentOS6+ / Debian6+ / Ubuntu14+
-- 使用方法: https://doub.io/wlzy-12/
+- 使用方法: http://www.dabaireso.com/2018/11/30/017.html
 - 项目地址: https://github.com/jpillora/cloud-torrent
 
 #### 下载安装:
@@ -283,7 +283,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/gittubo/suansua
 
 - 脚本说明: Peerflix Server 一键安装管理脚本
 - 系统支持: CentOS6+ / Debian6+ / Ubuntu14+
-- 使用方法: https://doub.io/wlzy-13/
+- 使用方法: http://www.dabaireso.com/2018/11/30/017.html
 - 项目地址: https://github.com/asapach/peerflix-server
 
 #### 下载安装:
@@ -299,7 +299,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/gittubo/suansua
 
 - 脚本说明: BBR 一键安装管理脚本
 - 系统支持: Debian6+ / Ubuntu14+
-- 使用方法: https://doub.io/wlzy-16/
+- 使用方法: http://www.dabaireso.com/2018/11/30/017.html
 
 #### 下载安装:
 ``` bash
@@ -311,7 +311,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/gittubo/suansua
 
 - 脚本说明: ServerStatus 一键安装管理脚本
 - 系统支持: CentOS6+ / Debian6+ / Ubuntu14+
-- 使用方法: https://doub.io/shell-jc3/
+- 使用方法: http://www.dabaireso.com/2018/11/30/017.html
 
 #### 下载安装:
 ``` bash
@@ -323,7 +323,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/gittubo/suansua
 
 - 脚本说明: iptables 垃圾邮件(SPAM)/BT/PT 一键封禁脚本
 - 系统支持: CentOS6+ / Debian6+ / Ubuntu14+
-- 使用方法: https://doub.io/shell-jc2/
+- 使用方法: http://www.dabaireso.com/2018/11/30/017.html
 
 #### 下载安装:
 ``` bash
@@ -335,7 +335,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/gittubo/suansua
 
 - 脚本说明: SSH 一键修改端口脚本
 - 系统支持: Debian6+ / Ubuntu14+
-- 使用方法: https://doub.io/linux-jc11/
+- 使用方法: http://www.dabaireso.com/2018/11/30/017.html
 
 #### 下载安装:
 ``` bash
@@ -350,7 +350,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/gittubo/suansua
 
 - 脚本说明: Ocserv AnyConnect 一键安装管理脚本
 - 系统支持: Debian7+ / Ubuntu14+
-- 使用方法: https://doub.io/vpnzy-7/
+- 使用方法: http://www.dabaireso.com/2018/11/30/017.html
 
 #### 下载安装:
 ``` bash
@@ -365,7 +365,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/gittubo/suansua
 
 - 脚本说明: DowsDNS 一键安装管理脚本
 - 系统支持: CentOS7 / Debian7+ / Ubuntu14+
-- 使用方法: https://doub.io/dowsdns-jc3/
+- 使用方法: http://www.dabaireso.com/2018/11/30/017.html
 
 #### 下载安装:
 ``` bash
@@ -380,7 +380,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/gittubo/suansua
 
 - 脚本说明: Caddy 一键安装脚本
 - 系统支持: CentOS6+ / Debian7+ / Ubuntu14+
-- 使用方法: https://doub.io/shell-jc1
+- 使用方法: http://www.dabaireso.com/2018/11/30/017.html
 
 #### 下载安装:
 ``` bash
@@ -399,7 +399,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/gittubo/suansua
 
 - 脚本说明: SimpleHTTPServer 一键安装管理脚本
 - 系统支持: CentOS6+ / Debian6+ / Ubuntu14+
-- 使用方法: https://doub.io/wlzy-8/
+- 使用方法: http://www.dabaireso.com/2018/11/30/017.html
 
 #### 下载安装:
 ``` bash
@@ -414,7 +414,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/gittubo/suansua
 
 - 脚本说明: ADbyby 一键安装管理脚本
 - 系统支持: CentOS6+ / Debian6+ / Ubuntu14+
-- 使用方法: https://doub.io/adbyby-jc2/
+- 使用方法: http://www.dabaireso.com/2018/11/30/017.html
 
 #### 下载安装:
 ``` bash
@@ -425,7 +425,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/gittubo/suansua
 
 - 脚本说明: 监测服务器IP是否被墙并推送至 Telegram 一键脚本
 - 系统支持: CentOS6+ / Debian6+ / Ubuntu14+
-- 使用方法: https://doub.io/shell-jc8/
+- 使用方法: http://www.dabaireso.com/2018/11/30/017.html
 
 #### 下载安装:
 ``` bash
@@ -437,7 +437,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/gittubo/suansua
 
 - 脚本说明: libsodium 一键安装管理脚本
 - 系统支持: CentOS6+ / Debian6+ / Ubuntu14+
-- 使用方法: https://doub.io/shell-jc6/
+- 使用方法: http://www.dabaireso.com/2018/11/30/017.html
 
 #### 下载安装:
 ``` bash
@@ -449,7 +449,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/gittubo/suansua
 
 - 脚本说明: ShadowsocksR 批量快速验证账号可用性
 - 系统支持: CentOS6+ / Debian6+ / Ubuntu14+
-- 使用方法: https://doub.io/ss-jc56/
+- 使用方法: http://www.dabaireso.com/2018/11/30/017.html
 
 #### 下载安装:
 ``` bash
@@ -461,7 +461,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/gittubo/suansua
 
 - 脚本说明: ShadowsocksR 账号在线监控网站
 - 系统支持: CentOS6+ / Debian6+ / Ubuntu14+
-- 使用方法: https://doub.io/shell-jc5/
+- 使用方法: http://www.dabaireso.com/2018/11/30/017.html
 
 #### 下载安装:
 ``` bash
@@ -473,7 +473,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/gittubo/suansua
 
 - 脚本说明: ShadowsocksR 检测每个端口链接IP数
 - 系统支持: CentOS6+ / Debian6+ / Ubuntu14+
-- 使用方法: https://doub.io/ss-jc50/
+- 使用方法: http://www.dabaireso.com/2018/11/30/017.html
 
 #### 下载安装:
 ``` bash
@@ -485,7 +485,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/gittubo/suansua
 
 - 脚本说明: PipeSocks 一键安装管理脚本（该软件已停更）
 - 系统支持: CentOS7 / Debian7+ / Ubuntu14+
-- 使用方法: https://doub.io/pipesocks-jc2/
+- 使用方法: http://www.dabaireso.com/2018/11/30/017.html
 
 #### 下载安装:
 ``` bash
@@ -497,7 +497,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/pipesocks/insta
 
 - 脚本说明: GoGo Tunnel 一键安装管理脚本（该软件已停更）
 - 系统支持: CentOS6+ / Debian6+ / Ubuntu14+
-- 使用方法: https://doub.io/wlzy-24/
+- 使用方法: http://www.dabaireso.com/2018/11/30/017.html
 
 #### 下载安装:
 ``` bash
