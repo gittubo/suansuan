@@ -7,7 +7,7 @@ export PATH
 #	Description: Shadowsocks Golang
 #	Version: 1.0.0
 #	Author: Toyo
-#	Blog: https://doub.io/ss-jc67/
+#	Blog: http://www.dabaireso.com/
 #=================================================
 
 sh_ver="1.0.0"
